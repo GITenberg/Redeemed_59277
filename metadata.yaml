@@ -7,12 +7,17 @@ contributor:
     deathdate: 1930
     gutenberg_agent_id: '8113'
     url: http://www.gutenberg.org/2009/agents/8113
+covers:
+- cover_type: archival
+  image_path: 59277-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Downs, Mrs. George Sheldon
     gutenberg_agent_id: '50374'
     url: http://www.gutenberg.org/2009/agents/50374
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59277#Redeemed
 gutenberg_issued: '2019-04-14'
 gutenberg_type: Text
 identifiers:
